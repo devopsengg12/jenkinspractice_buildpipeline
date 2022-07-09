@@ -74,6 +74,7 @@ pipeline{
                 
                 steps{
                     echo 'mvn deploy do latter'
+			echo 'mvn deploy do latter'
                 }
             }
             
